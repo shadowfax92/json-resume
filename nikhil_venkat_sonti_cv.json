@@ -147,33 +147,9 @@
                         "Implemented and evaluated the Algorithm proposed in the paper: “Failure-Aware Scheduling in Grid Computing Environments by Dung T. Nguyen, Hiep C. Nguyen, Tung D. Le”",
                         "DDistributed Systems Course Project"
                     ]   
-                }             
+                }            
             ]
         },
-        "grad_courses": [
-            {
-                "name": "Distributed Computing",
-                "url": "http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/13F/"
-            },
-            {
-                "name": "Feature Oriented Programming",
-                "url": "http://www.cs.utexas.edu/users/dsb/cs392f"
-            },
-            {
-                "name": "Multicore Programming",
-                "url": "http://www.cs.utexas.edu/~pingali/CS395T/2013fa"
-            }
-         ],
-        "undergrad_courses": [
-            {
-                "name": "Network Systems",
-                "url": "http://www.facweb.iitkgp.ernet.in/~agupta/netlab/"
-            },
-            {
-                "name": "Graph Theory",
-                "url": "http://cse.iitkgp.ac.in/~agupta/graph/"
-            }
-	],
         "research_experience": {
             "items": [
                 {
@@ -201,33 +177,10 @@
         },
         "extra_curricular": {
             "items": [
-                "Was awarded 2<sup>nd</sup> position in Bionetics, Coding Event, Genesis 09 at IIT Kharagpur.",
-                "Microsoft Student Partner of IIT Kharagpur from the period July 08 – June 09."
+                "Winner of “I Unlock Joy”, a Windows phone 7 application development competition organized by Microsoft.",
+                "Winner of “Android Port-A-Thon” competition organized by Blackberry.",
+                "Have take part in numerous hackathons. Few of them are Windows App fest, Techcrunch Hackathon, Code of India"
             ]
-        },
-	"papers": {
-	   "items": [
-	   		{
-			"authors":"Michl Dugls, Mrclo Dsconi",
-			"title":"Some exotic dummy title like potentials arising from string compactifications",
-			"misc":"arXiv: 1206.1885, June 2012"
-			} 
-		   ]
-	},
-	"patents": {
-	   "items": [
-		   	{
-			"patent_id":"US Patent X,XXX,634",
-			"url":"",
-			"issuance_date":"September 15, 1992",
-			"title":"Another exotic title like bed cover with an inflatable human form."
-			}
-		   ]
-	},
-	"memberships": {
-	   "committees": [
-			"Member of the ACM awesomest humans secret group, 2008-present"
-		   ]
-	}
+        }
     }
 }
