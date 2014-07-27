@@ -10,12 +10,12 @@
         "email": "nikhilsv92@gmail.com",
         "phone": "+91 9632378872",
         "website": "http://shadowfax92.github.io",
-        // "stars": ["C++","Python","Hacks"],
-	// "summary": {
-	// 	"points":[
-	// 	"Competent at managing responsibilities in a high-volume atmosphere",
-	// 	"Hard worker, quick learner, and ability to assume responsibility"
-	// 	]
+        "stars": ["C++","Python","Hacks"],
+	"summary": {
+		"points":[
+		"Competent at managing responsibilities in a high-volume atmosphere",
+		"Hard worker, quick learner, and ability to assume responsibility"
+		]
 	},
         "github_projects": {
             "details": [
@@ -52,10 +52,8 @@
                     "project_name": "shadowfax92/Cipher-Text.git",
                     "tagline": "Android application for sending encrypted messages",
                     "description": [
-                        "Cipher Text is an Android application for sending encrypted messages. Using this application one
-can send messages in the form of encrypted text. User can use SMS or Mail to send their
-encrypted text without having to worry about the security of your message.",
-                "The application uses DES algorithm for encrypting and decrypting the messages."
+                        "Cipher Text is an Android application for sending encrypted messages. Using this application one can send messages in the form of encrypted text. User can use SMS or Mail to send their encrypted text without having to worry about the security of your message.",
+                    "The application uses DES algorithm for encrypting and decrypting the messages."
                     ]
                 },
                 {
@@ -63,10 +61,9 @@ encrypted text without having to worry about the security of your message.",
                     "tagline": "Software application for sharing a keyboard and mouse between multiple computers",
                     "description": [
                         "CNerve is a software application for sharing a keyboard and mouse between multiple computers. It is used in situations where several PCs are used together, with a monitor connected to each, but are to be controlled by one use",
-
-                "Developed it as a part of Networks course"
+                        "Developed it as a part of Networks course"
                     ]
-                },
+                }
             ]
         },
         "skills": {
@@ -74,21 +71,18 @@ encrypted text without having to worry about the security of your message.",
                 {
                     "type": "Programming Languages",
                     "items": [
-                        "Python",
-                        "Java",
                         "C++",
+                        "Python",
+                        "Java"
                     ]
                 },
                 {
-                    "type": "Tools and Frameworks",
+                    "type": "Tools",
                     "items": [
-                        "MongoDB",
                         "Flask",
-                        "SQLite",
+                        "MySQL, SQLite",
                         "OMNeT++",
-                        "Octave",
-                        "Android App development",
-                        "Windows Phone and Windows App development"
+                        "Octave, MATLAB"
                     ]
                 }
             ]
@@ -110,7 +104,7 @@ encrypted text without having to worry about the security of your message.",
                     "graduation_year": 2009,
                     "PCM-percentage": "98.67%",
                     "aggregate-percentage":"92.16%"
-                }
+                },
                 {
                     "degree": "10th grade",
                     "institution": "Kendriay Vidyalaya, India",
@@ -152,42 +146,34 @@ encrypted text without having to worry about the security of your message.",
                     "points": [
                         "Implemented and evaluated the Algorithm proposed in the paper: “Failure-Aware Scheduling in Grid Computing Environments by Dung T. Nguyen, Hiep C. Nguyen, Tung D. Le”",
                         "DDistributed Systems Course Project"
-                    ],
-                    "headline": "Customer Feedback Systems (CFS)",
-                    "points": [
-                        "CFS stands for Customer Feedback Systems (CFS). It provides actionable, real-time feedback about
-the different services which are used by the Customer.",
-                        "CFS enables to quantify customer service, thereby creating a measurement system to uniformly
-raise service levels to ultimately meet the set benchmark."
-                        "Software Engineering Course Project"
-                    ]
-                }                
+                    ]   
+                }             
             ]
         },
- //        "grad_courses": [
- //            {
- //                "name": "Distributed Computing",
- //                "url": "http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/13F/"
- //            },
- //            {
- //                "name": "Feature Oriented Programming",
- //                "url": "http://www.cs.utexas.edu/users/dsb/cs392f"
- //            },
- //            {
- //                "name": "Multicore Programming",
- //                "url": "http://www.cs.utexas.edu/~pingali/CS395T/2013fa"
- //            }
- //         ],
- //        "undergrad_courses": [
- //            {
- //                "name": "Network Systems",
- //                "url": "http://www.facweb.iitkgp.ernet.in/~agupta/netlab/"
- //            },
- //            {
- //                "name": "Graph Theory",
- //                "url": "http://cse.iitkgp.ac.in/~agupta/graph/"
- //            }
-	// ],
+        "grad_courses": [
+            {
+                "name": "Distributed Computing",
+                "url": "http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/13F/"
+            },
+            {
+                "name": "Feature Oriented Programming",
+                "url": "http://www.cs.utexas.edu/users/dsb/cs392f"
+            },
+            {
+                "name": "Multicore Programming",
+                "url": "http://www.cs.utexas.edu/~pingali/CS395T/2013fa"
+            }
+         ],
+        "undergrad_courses": [
+            {
+                "name": "Network Systems",
+                "url": "http://www.facweb.iitkgp.ernet.in/~agupta/netlab/"
+            },
+            {
+                "name": "Graph Theory",
+                "url": "http://cse.iitkgp.ac.in/~agupta/graph/"
+            }
+	],
         "research_experience": {
             "items": [
                 {
@@ -219,29 +205,29 @@ raise service levels to ultimately meet the set benchmark."
                 "Microsoft Student Partner of IIT Kharagpur from the period July 08 – June 09."
             ]
         },
-	// "papers": {
-	//    "items": [
-	//    		{
-	// 		"authors":"Michl Dugls, Mrclo Dsconi",
-	// 		"title":"Some exotic dummy title like potentials arising from string compactifications",
-	// 		"misc":"arXiv: 1206.1885, June 2012"
-	// 		} 
-	// 	   ]
-	// },
-	// "patents": {
-	//    "items": [
-	// 	   	{
-	// 		"patent_id":"US Patent X,XXX,634",
-	// 		"url":"",
-	// 		"issuance_date":"September 15, 1992",
-	// 		"title":"Another exotic title like bed cover with an inflatable human form."
-	// 		}
-	// 	   ]
-	// },
-	// "memberships": {
-	//    "committees": [
-	// 		"Member of the ACM awesomest humans secret group, 2008-present"
-	// 	   ]
-	// }
+	"papers": {
+	   "items": [
+	   		{
+			"authors":"Michl Dugls, Mrclo Dsconi",
+			"title":"Some exotic dummy title like potentials arising from string compactifications",
+			"misc":"arXiv: 1206.1885, June 2012"
+			} 
+		   ]
+	},
+	"patents": {
+	   "items": [
+		   	{
+			"patent_id":"US Patent X,XXX,634",
+			"url":"",
+			"issuance_date":"September 15, 1992",
+			"title":"Another exotic title like bed cover with an inflatable human form."
+			}
+		   ]
+	},
+	"memberships": {
+	   "committees": [
+			"Member of the ACM awesomest humans secret group, 2008-present"
+		   ]
+	}
     }
 }
