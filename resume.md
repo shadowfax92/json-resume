@@ -1,11 +1,9 @@
 ##Nikhil Venkat Sonti
 [http://shadowfax92.github.io](http://shadowfax92.github.io) `nikhilsv92@gmail.com` `+91 9632378872`
 
-C++ - Python - Hacks
 
 ###Qualifications summary
-* Competent at managing responsibilities in a high-volume atmosphere
-* Hard worker, quick learner, and ability to assume responsibility
+* Hard worker, quick learner, and love working on new stuff
 
 ###GitHub Projects
 * [shadowfax92/QCNCongestionControl.git](http://github.com/shadowfax92/QCNCongestionControl.git) : Congestion Control Algorithm
@@ -32,8 +30,8 @@ C++ - Python - Hacks
 Degree | Major | Institution | Graduation Year | GPA
 :--:|:--:|:--:|:--:|:--:
 Bachelor of Technology (Hons.) | Computer Science | National Institute of Technology Karnataka (NITK), India | 2013 | 8.24/10
-12th grade | Physics, Chemistry, Maths and Biology | Vinday Mandir Pre-university College, India | 2009 | PCM - 98.67%, aggregate - 92.16%
-10th grade |  | Kendriay Vidyalaya, India | 2009 | 92%
+12th grade | Physics, Chemistry, Maths and Biology | Vidya Mandir Pre-university College, India | 2009 | PCM - 98.67%, aggregate - 92.16%
+10th grade |  | Kendriya Vidyalaya, India | 2009 | 92%
 
 ###Academic Achievements
 * Secured 73rd rank in Karnataka CET ( out of 150 thousand - 99.83 percentile).
