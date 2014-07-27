@@ -32,15 +32,15 @@ C++ - Python - Hacks
 Degree | Major | Institution | Graduation Year | GPA
 :--:|:--:|:--:|:--:|:--:
 Bachelor of Technology (Hons.) | Computer Science | National Institute of Technology Karnataka (NITK), India | 2013 | 8.24/10
-12th grade | Physics, Chemistry, Maths and Biology | Vinday Mandir Pre-university College, India | 2009 | 
-10th grade |  | Kendriay Vidyalaya, India | 2009 | 
+12th grade | Physics, Chemistry, Maths and Biology | Vinday Mandir Pre-university College, India | 2009 | PCM - 98.67%, aggregate - 92.16%
+10th grade |  | Kendriay Vidyalaya, India | 2009 | 92%
 
 ###Academic Achievements
 * Secured 73rd rank in Karnataka CET ( out of 150 thousand - 99.83 percentile).
 * Secured an AIR rank of 5767 (state rank of 112) in AIEEE 2009 ( out of 1 million - 99.4 percentile)
 
 ###Professional Experience
-* ystem Software Engineer at Akamai, Bangalore, India (July. 2013 – Present)
+* System Software Engineer at Akamai, Bangalore, India (July. 2013 – Present)
     - Working on Media Content Delivery Networks. .
     - Technologies got to work on: `Python` `C++` 
 

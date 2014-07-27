@@ -102,14 +102,13 @@
                     "major": "Physics, Chemistry, Maths and Biology",
                     "institution": "Vinday Mandir Pre-university College, India",
                     "graduation_year": 2009,
-                    "PCM-percentage": "98.67%",
-                    "aggregate-percentage":"92.16%"
+                    "gpa": "PCM - 98.67%, aggregate - 92.16%"
                 },
                 {
                     "degree": "10th grade",
                     "institution": "Kendriay Vidyalaya, India",
                     "graduation_year": 2009,
-                    "percentage": "92%"
+                    "gpa": "92%"
                 }
             ]
         },
@@ -122,7 +121,7 @@
         "experience": {
             "items": [
                 {
-                    "title": "ystem Software Engineer",
+                    "title": "System Software Engineer",
                     "organisation": "Akamai",
 		    "location": "Bangalore, India",
                     "from": "July. 2013",
