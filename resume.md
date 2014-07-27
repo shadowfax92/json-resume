@@ -1,5 +1,5 @@
 ##Nikhil Venkat Sonti
-[http://shadowfax92.github.io](http://shadowfax92.github.io) `nikhilsv92@gmail.com` `+91 9632378872`
+[http://shadowfax92.github.io](http://shadowfax92.github.io) `nikhilsv92@gmail.com` `+91-9632378872`
 
 
 ###Qualifications summary
@@ -8,11 +8,11 @@
 ###GitHub Projects
 * [shadowfax92/QCNCongestionControl.git](http://github.com/shadowfax92/QCNCongestionControl.git) : Congestion Control Algorithm
     - In this project, we propose a Layer 2 congestion management algorithm. Our objective is to design an algorithm which is stable, responsive, and efficient.
-* [shadowfax92/Captcha-Breaker.git](http://github.com/shadowfax92/Captcha-Breaker.git) : Simple python script to decode captcha's images
+* [shadowfax92/Captcha-Breaker.git](http://github.com/shadowfax92/Captcha-Breaker.git) : Decode captcha's images
     - This is a simple python program which decodes captcha's images. It requires tesseract library install
 * [shadowfax92/chat-heads.git](http://github.com/shadowfax92/chat-heads.git) : New way of messaging in android
     -  Chat heads is an android Application that simplifies how messaging is done in Android devices. It uses something called floating windows to display new messages that arrive on your android phone. Advantage of doing this is that you don't have to move away from your current app to reply to messages!
-* [shadowfax92/C-lexical-Analyzer.git](http://github.com/shadowfax92/C-lexical-Analyzer.git)
+* [shadowfax92/C-lexical-Analyzer.git](http://github.com/shadowfax92/C-lexical-Analyzer.git) : lexical analyzer for C
     - A simple lexical analyzer for a sub-C compiler.
     - Developed it as a part of Compilers course
 * [shadowfax92/Cipher-Text.git](http://github.com/shadowfax92/Cipher-Text.git) : Android application for sending encrypted messages
