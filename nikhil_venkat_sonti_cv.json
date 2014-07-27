@@ -8,7 +8,7 @@
     "github_id": "shadowfax92",
     "bio_data": {
         "email": "nikhilsv92@gmail.com",
-        "phone": "+91 9632378872",
+        "phone": "+91-9632378872",
         "website": "http://shadowfax92.github.io",
 	"summary": {
 		"points":[
@@ -26,7 +26,7 @@
                 },
                 {
                     "project_name": "shadowfax92/Captcha-Breaker.git",
-                    "tagline": "Simple python script to decode captcha's images",
+                    "tagline": "Decode captcha's images",
                     "description": [
                         "This is a simple python program which decodes captcha's images. It requires tesseract library install"
                     ]
@@ -40,7 +40,7 @@
                 },
                 {
                     "project_name": "shadowfax92/C-lexical-Analyzer.git",
-                    "tagline": "",
+                    "tagline": "lexical analyzer for C",
                     "description": [
                         "A simple lexical analyzer for a sub-C compiler.",
                         "Developed it as a part of Compilers course"
@@ -64,6 +64,28 @@
                 }
             ]
         },
+        "Other projects": {
+            "details": [
+                {
+                    "project_name": "Google Index Search",
+                    "tagline": "App to search google indexes (8000+ Downloads)",
+                    "description": [
+                        "Google Index Search provides a way to search the Google's Indexes to find the file you want. Google periodically indexes files of almost all types, including Mp3s, PDFs, and MKVs. And these indexes are one of the easiest places to quickly find an endless quantity of freely downloadable files. This is app helps you search those indexes.",
+                        "Windows store link - "
+                    ]
+                },
+                {
+                    "project_name": "Search All",
+                    "tagline": "Innovative search app (1 Million downloads)",
+                    "description": [
+                        "Innovative Search App, with all the famous sites centralized at one place, enabling you to search contents much faster and efficiently. Ported the application from Windows phone 7 market to Windows market.",
+                        "Windows store link - "
+                    ]
+                },
+                
+            ]
+        },
+
         "skills": {
             "details": [
                 {
