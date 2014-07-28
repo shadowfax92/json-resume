@@ -3,7 +3,7 @@
 
 
 ###Qualifications summary
-* Hard worker, quick learner, and love working on new stuff
+* Hard worker, quick learner and love working on new stuff
 
 ###GitHub Projects
 * [shadowfax92/QCNCongestionControl.git](http://github.com/shadowfax92/QCNCongestionControl.git) : Congestion Control Algorithm

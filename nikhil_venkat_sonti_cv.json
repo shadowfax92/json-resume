@@ -12,7 +12,7 @@
         "website": "http://shadowfax92.github.io",
 	"summary": {
 		"points":[
-		"Hard worker, quick learner, and love working on new stuff"
+		"Hard worker, quick learner and love working on new stuff"
 		]
 	},
         "github_projects": {
@@ -22,13 +22,6 @@
                     "tagline": "Congestion Control Algorithm",
                     "description": [
                         "In this project, we propose a Layer 2 congestion management algorithm. Our objective is to design an algorithm which is stable, responsive, and efficient."
-                    ]
-                },
-                {
-                    "project_name": "shadowfax92/Captcha-Breaker.git",
-                    "tagline": "Decode captcha's images",
-                    "description": [
-                        "This is a simple python program which decodes captcha's images. It requires tesseract library install"
                     ]
                 },
                 {
@@ -61,10 +54,17 @@
                         "CNerve is a software application for sharing a keyboard and mouse between multiple computers. It is used in situations where several PCs are used together, with a monitor connected to each, but are to be controlled by one use",
                         "Developed it as a part of Networks course"
                     ]
+                },
+                {
+                    "project_name": "shadowfax92/Captcha-Breaker.git",
+                    "tagline": "Decode captcha's images",
+                    "description": [
+                        "This is a simple python program which decodes captcha's images. It requires tesseract library install"
+                    ]
                 }
             ]
         },
-        "Other projects": {
+        "projects": {
             "details": [
                 {
                     "project_name": "Google Index Search",
@@ -85,7 +85,6 @@
                 
             ]
         },
-
         "skills": {
             "details": [
                 {
@@ -100,9 +99,13 @@
                     "type": "Tools",
                     "items": [
                         "Flask",
-                        "MySQL, SQLite",
+                        "Android application development",
+                        "Windows Phone and Windows 8 application development",
+                        "SQLite",
+                        "SQLite",
+                        "MongoDB",
                         "OMNeT++",
-                        "Octave, MATLAB"
+                        "Octave"
                     ]
                 }
             ]
@@ -122,12 +125,12 @@
                     "major": "Physics, Chemistry, Maths and Biology",
                     "institution": "Vidya Mandir Pre-university College, India",
                     "graduation_year": 2009,
-                    "gpa": "PCM - 98.67%, aggregate - 92.16%"
+                    "gpa": "92.16%"
                 },
                 {
                     "degree": "10th grade",
                     "institution": "Kendriya Vidyalaya, India",
-                    "graduation_year": 2009,
+                    "graduation_year": 2007,
                     "gpa": "92%"
                 }
             ]
